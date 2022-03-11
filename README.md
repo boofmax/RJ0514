@@ -19,9 +19,9 @@ Hi, I'm Ryan! 👋
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg"  alt="JavaScript" width="40px" height="40px"></a>
 
 <h2>My GitHub Stats </h2>
-<p align="LEFT"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=RJ0514&show_icons=true&theme=radical" alt="anushka23g" /></p>
+<p align="CENTER"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=RJ0514&show_icons=true&theme=radical" alt="anushka23g" /></p>
 
-<p align="LEFT"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RJ0514&show_icons=true&theme=tokyonight_duo" alt="anushka23g" /></p>
+<p align="CENTER"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RJ0514&show_icons=true&theme=tokyonight_duo" alt="anushka23g" /></p>
 
 
 <!--
