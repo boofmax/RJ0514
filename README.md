@@ -7,7 +7,7 @@ Hi, I'm Ryan! 👋
   
 - 👩‍🎓 I'm taking up Computer Science Major in Software Technology at <a href = "https://www.dlsu.edu.ph/colleges/ccs/undergraduate-degree-programs/cs-st/"> DLSU </a>
 - 👯 My goal is to learn through collaboration. Continually improving my craft through the expertise of those around me.
-- 🤔 I'm looking for help with how to learn Data Analytics, and System Automation.
+- 🤔 I'm looking for help with how to learn Data Security, Data Architecture, and Data Analytics.
 
 
 **Languages and Technologies:**
